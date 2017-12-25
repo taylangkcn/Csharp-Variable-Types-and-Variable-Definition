@@ -1,0 +1,23 @@
+C:\Users\DGS\AppData\Local\Temporary Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\DGS\AppData\Local\Temporary Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\DGS\AppData\Local\Temporary Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\DGS\AppData\Local\Temporary Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.CodeAnalysisLog.xml
+C:\Users\DGS\AppData\Local\Temporary Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.lastcodeanalysissucceeded
+C:\Users\DGS\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\DGS\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DGS\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sayi_kutusu.resources
+C:\Users\DGS\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\DGS\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\DGS\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\DGS\AppData\Local\Temporary Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\DGS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\DGS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\DGS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\DGS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DGS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sayi_kutusu.resources
+C:\Users\DGS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\DGS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\DGS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\DGS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\DGS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\DGS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sifre_kontrol.resources
